@@ -4,7 +4,7 @@
 <div id="under">
 <table>
 <tr><td rowspan="2"><img src="img/bottom_img.png"></td>
-<td align="left"><a href="https://debs.dongduk.ac.kr:7450/" target="_blank" style="font-weight: bold;">DEBS���Ļ���Ʈ</a></td>
+<td align="left"><a href="https://debs.dongduk.ac.kr:7450/" target="_blank" style="font-weight: bold;">DEBS°ø½Ä»çÀÌÆ®</a></td>
 </tr>
 <tr>
 <td align="left">
